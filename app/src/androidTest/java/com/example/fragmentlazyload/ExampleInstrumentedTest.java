@@ -1,4 +1,4 @@
-package com.example.sk.fragmentlazyload;
+package com.example.fragmentlazyload;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

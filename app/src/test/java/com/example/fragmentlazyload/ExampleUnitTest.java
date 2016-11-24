@@ -1,4 +1,4 @@
-package com.example.sk.fragmentlazyload;
+package com.example.fragmentlazyload;
 
 import org.junit.Test;
 
